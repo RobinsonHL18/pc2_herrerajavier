@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pc2_herrerajavier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd66902def7921170d9603da0491148ddb0c08a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcee71e6fc3e92e03d008aaa18735e9718ff1e6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("pc2_herrerajavier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pc2_herrerajavier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
