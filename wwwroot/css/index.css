@@ -1,0 +1,41 @@
+.header-simple {
+  background-color: #f0f9ff;
+  padding: 40px 0;
+}
+
+.header-simple h1 {
+  color: #007bff;
+}
+
+.header-simple p.lead {
+  font-size: 1.25rem;
+}
+
+.info-section {
+  padding: 30px 0;
+  background-color: #ffffff;
+}
+
+.intro-text {
+  font-size: 1.1rem;
+  color: #555;
+  margin-top: 20px;
+}
+
+.services-overview {
+  padding: 40px 0;
+  background-color: #f8f9fa;
+}
+
+.services-overview h2 {
+  color: #343a40;
+}
+
+.services-overview h3 {
+  color: #007bff;
+}
+
+.services-overview p {
+  font-size: 1rem;
+  color: #666;
+}
