@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\pc2_herrerajavier.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\pc2_herrerajavier\\wwwroot\\css\\CBancaria.css",
+      "PackagePath": "staticwebassets\\css\\CBancaria.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\pc2_herrerajavier\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\pc2_herrerajavier\\wwwroot\\css\\lCuentas.css",
+      "PackagePath": "staticwebassets\\css\\lCuentas.css"
+    },
+    {
+      "Id": "C:\\Users\\ACER\\Desktop\\pc2_herrerajavier\\wwwroot\\css\\privacidad.css",
+      "PackagePath": "staticwebassets\\css\\privacidad.css"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\pc2_herrerajavier\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
