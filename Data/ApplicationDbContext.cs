@@ -9,4 +9,5 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
+    public DbSet<pc2_herrerajavier.Models.CuentaBancaria> DataCuentaBancaria {get; set; }
 }
